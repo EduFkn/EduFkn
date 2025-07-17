@@ -12,7 +12,7 @@ Experiência com **React, Next.js, JavaScript, TypeScript, TailwindCSS, HTML e C
 
 ### 🧰 Tecnologias que uso
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px;">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML" />
 &nbsp;
