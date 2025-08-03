@@ -13,14 +13,14 @@
 </h2>
 
 <p align="center" style="max-width: 700px; margin: auto; font-size: 1.05rem;">
-  Sou um <b>Desenvolvedor Front-End</b> em transição de carreira, apaixonado por criar interfaces dinâmicas e responsivas.<br>
+  Sou um <b>Desenvolvedor Full-Stack</b> em constante evolução e preparo, Motivado a criar soluções para problemas complexos com uso da tecnologia.<br>
   Experiência com <b>React, Next.js, JavaScript, TypeScript, TailwindCSS, HTML e CSS</b>, sempre buscando escrever código limpo e transformar UI/UX em produtos reais.<br>
-  Tenho uma base sólida em <b>API integration</b>, boas práticas, <b>SEO</b>, <b>acessibilidade</b> e <b>performance</b>.
+  Tenho uma base sólida em <b>API integration</b>, boas práticas, <b>NodeJs & Banco de dados</b>, <b>Escala</b> e <b>Performance</b>.
 </p>
 
 ---
 
-<h2 align="center" style="color:#7F3FBF">🧰 Tecnologias que uso</h2>
+<h2 style="color:#7F3FBF">🧰 Tecnologias que uso</h2>
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 18px; justify-content: center; animation: slide 20s linear infinite;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML"/>
